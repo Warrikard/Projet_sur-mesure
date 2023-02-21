@@ -68,6 +68,7 @@ Header
 .top-nav {
   background-color: var(--green);
   font-size: 1.3rem;
+  height: 65px;
   color: var(--white);
 }
 
